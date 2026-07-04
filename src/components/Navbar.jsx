@@ -31,7 +31,7 @@ export default function Navbar() {
             </section>
 
             {/* Mobile */}
-            <section className="lg:hidden flex   w-75 justify-between items-center px-6 py-5   ">
+            <section className="lg:hidden flex  gap-40 md:gap-138   w-75 justify-between items-center px-6 py-5   ">
 
                 <Link
                     to="/"
