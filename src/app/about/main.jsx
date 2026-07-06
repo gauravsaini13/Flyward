@@ -49,7 +49,7 @@ export default function Main() {
                     </div>
 
                 </div>
-                <img src="/abimg/3d.png" className="absolute -bottom-5 scale-150  lg:-bottom-10 lg:scale-100" />
+                <img src="/abimg/3d.png" className="absolute -bottom-10 scale-150  lg:-bottom-10 lg:scale-100" />
             </section>
 
             {/* section 2 */}
